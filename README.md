@@ -2,6 +2,7 @@
 Base code to get a metadata connection and rename a metadata
 
 1.Download the file renamer.jar which contains the main code to run the 'rename' operation
+
 2.Download the seedFile.txt which contains a JSON represnetation of the config needed
 3.Ensure 'java' command is in your 'path'
 4.Modify the seedFile.txt as discussed below 
