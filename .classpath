@@ -5,5 +5,6 @@
 	<classpathentry kind="lib" path="C:/wsc/wsc/force-wsc-48.0.0.jar"/>
 	<classpathentry kind="lib" path="C:/wsc/wsc/metadata.jar"/>
 	<classpathentry kind="lib" path="C:/wsc/wsc/partner.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kedar/Downloads/json-simple-1.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

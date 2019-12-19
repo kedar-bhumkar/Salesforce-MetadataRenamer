@@ -1,0 +1,8 @@
+{
+	"username": "kedar@arch.com",
+	"password": "Chatter2010@",
+	"sobjectApi": "MyCustomObject1New__c",
+	"suffix": "X",
+	"instanceUrl":"https://login.salesforce.com/services/Soap/u/45.0"
+	"fields": ["Fatigue__c","Earpain__c","Backpain__c"]
+}
