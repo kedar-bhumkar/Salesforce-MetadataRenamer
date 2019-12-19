@@ -26,4 +26,4 @@ E.g.
 	- "suffix": "_old",
 	- "instanceUrl":"https://login.salesforce.com/services/Soap/u/45.0"
 	- "fields": ["Fatigue__c","Earpain__c","Backpain__c"]
-}
+- }
