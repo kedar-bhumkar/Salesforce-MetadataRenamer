@@ -13,8 +13,9 @@ public class Controller {
 	
 	public static void main(String[] args) {
 	        ConnectorConfig config = new ConnectorConfig();
-	        config.setUsername("kedar@arch.com");
-	        config.setPassword("Chatter2010@");
+	        config.setUsername("<Your username>");
+	        config.setPassword("<Your password>");
+	        //I am not using sec token. Bypass by defining IP range to be wider.
 	        try{
 	        	connection = getMetadataConnection(config);
 	        	//call this iteratively
