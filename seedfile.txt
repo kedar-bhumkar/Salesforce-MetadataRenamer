@@ -1,6 +1,6 @@
 {
-	"username": "kedar@arch.com",
-	"password": "Chatter2010@",
+	"username": "username",
+	"password": "password",
 	"sobjectApi": "MyCustomObject1New__c",
 	"suffix": "X",
 	"instanceUrl":"https://login.salesforce.com/services/Soap/u/45.0"
